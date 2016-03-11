@@ -8,5 +8,5 @@ A simple youtube search-client  android application with following functionaliti
 
 - List view is used to display list of videos with thumbnail, title, duration and uploaded by.
 - Youtube data api v3 is used to fetch data from youtube.
-- On clicking on thumbnail, app will take us to another screen where it shows details of video such as views, number of likes, category, title, uploaded by and option to play the video.
+- On clicking on particular list item, app will take us to another screen where it shows details of video such as views, number of likes, category, title, uploaded by and option to play the video.
 
